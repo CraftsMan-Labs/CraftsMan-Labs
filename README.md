@@ -45,6 +45,20 @@ These packages are published and available to use today.
 | `simple-agents-ffi` | crates.io | https://crates.io/crates/simple-agents-ffi |
 | `simple-agents-healing` | crates.io | https://crates.io/crates/simple-agents-healing |
 
+## Documentation and package stats
+
+- Documentation: https://docs.simpleagents.craftsmanlabs.net/
+
+| Package | Version | Downloads |
+|---|---|---|
+| `simple-agents-py` | [![PyPI Version](https://img.shields.io/pypi/v/simple-agents-py?style=flat-square&logo=python)](https://pypi.org/project/simple-agents-py/) | [![PyPI Downloads](https://static.pepy.tech/badge/simple-agents-py/month)](https://pepy.tech/project/simple-agents-py) |
+| `simple-agents-node` | [![npm Version](https://img.shields.io/npm/v/simple-agents-node?style=flat-square&logo=npm)](https://www.npmjs.com/package/simple-agents-node) | [![npm Downloads](https://img.shields.io/npm/dm/simple-agents-node?style=flat-square)](https://www.npmjs.com/package/simple-agents-node) |
+| `simple-agent-type` | [![crates.io](https://img.shields.io/crates/v/simple-agent-type?style=flat-square&logo=rust)](https://crates.io/crates/simple-agent-type) | [![crates downloads](https://img.shields.io/crates/d/simple-agent-type?style=flat-square)](https://crates.io/crates/simple-agent-type) |
+| `simple-agents-cache` | [![crates.io](https://img.shields.io/crates/v/simple-agents-cache?style=flat-square&logo=rust)](https://crates.io/crates/simple-agents-cache) | [![crates downloads](https://img.shields.io/crates/d/simple-agents-cache?style=flat-square)](https://crates.io/crates/simple-agents-cache) |
+| `simple-agents-core` | [![crates.io](https://img.shields.io/crates/v/simple-agents-core?style=flat-square&logo=rust)](https://crates.io/crates/simple-agents-core) | [![crates downloads](https://img.shields.io/crates/d/simple-agents-core?style=flat-square)](https://crates.io/crates/simple-agents-core) |
+| `simple-agents-ffi` | [![crates.io](https://img.shields.io/crates/v/simple-agents-ffi?style=flat-square&logo=rust)](https://crates.io/crates/simple-agents-ffi) | [![crates downloads](https://img.shields.io/crates/d/simple-agents-ffi?style=flat-square)](https://crates.io/crates/simple-agents-ffi) |
+| `simple-agents-healing` | [![crates.io](https://img.shields.io/crates/v/simple-agents-healing?style=flat-square&logo=rust)](https://crates.io/crates/simple-agents-healing) | [![crates downloads](https://img.shields.io/crates/d/simple-agents-healing?style=flat-square)](https://crates.io/crates/simple-agents-healing) |
+
 ## What I'm building toward
 
 - **Agent systems that are production-ready by design**
