@@ -17,6 +17,9 @@ One-line background: I started shipping and leading technical communities early,
 
 | Period | Role | Company | Focus |
 |---|---|---|---|
+| Sep 2024 - Present | Senior AI Engineer, Agentic Builder | CraftsmanLabs | Building production agentic systems, model orchestration stacks, and AI product workflows |
+| Feb 2025 - Present | Co-Founder, OS Agentic Builder | Agentics Foundation | OSS non-profit work for advancing practical agentic engineering |
+| Jul 2024 - Dec 2025 | SWE ML Engineer | Cato | Applied ML engineering across Python/PHP systems and production automation |
 | Jul 2023 - Present | Software Engineer ML | Ampliforce | Multimodal LLM systems for intelligent document processing and automation bots |
 | Nov 2022 - May 2023 | Solution Engineer | Instabase | Financial document extraction acceleration with LayoutLMv3-based pipelines |
 | May 2022 - Jul 2023 | Software Engineer ML | HighIQ.ai | IDP platform development and practical NLP systems |
@@ -111,8 +114,6 @@ I actively build, fork, and contribute around the agentic ecosystem, including i
 | Website | https://www.craftsmanlabs.net/ |
 | GitHub | https://github.com/CraftsMan-Labs |
 | LinkedIn | https://www.linkedin.com/in/rishub-c-r |
-| FOSS United | https://fossunited.org/u/rishub_c_r |
-| ORCID | https://orcid.org/0009-0000-0557-700X |
 | Linktree | https://linktr.ee/CraftsmanLabs |
 
 ## Let's collaborate
