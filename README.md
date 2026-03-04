@@ -1,8 +1,8 @@
-# Hi, I'm @SimpleFlow
+# Hi, I'm Rishub aka Craftsman
 
 I build practical AI systems that move from idea to production fast.
 
-![Craftsman Labs hero](./craftsmanlabs-hero.png)
+![SimpleFlow hero](./SimpleFlow.png)
 
 ## Why this repository exists
 
