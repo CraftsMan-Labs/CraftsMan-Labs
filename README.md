@@ -2,6 +2,8 @@
 
 I build practical AI systems that move from idea to production fast.
 
+![Craftsman Labs hero](./craftsmanlabs-hero.png)
+
 ## Why this repository exists
 
 AI is most powerful when we stop treating models as black boxes and start designing systems around them.
