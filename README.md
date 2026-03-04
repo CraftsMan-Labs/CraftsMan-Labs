@@ -1,8 +1,26 @@
-# Hi, I'm Rishub aka Craftsman
+# Hi, I'm Rishub C R aka Craftsman
 
 I build practical AI systems that move from idea to production fast.
 
+- Website: https://www.craftsmanlabs.net/
+- Documentation: https://docs.simpleagents.craftsmanlabs.net/
+
 ![SimpleFlow hero](./SimpleFlow.png)
+
+## Rishub C R and CraftsmanLabs
+
+I'm a Chennai-based AI/ML software engineer and indie builder working under the CraftsmanLabs brand. I focus on agentic AI systems, multimodal LLM applications, memory architectures, and production-grade developer tooling.
+
+One-line background: I started shipping and leading technical communities early, then scaled into full-time AI engineering across IDP, NLP, and agent systems.
+
+## Professional snapshot
+
+| Period | Role | Company | Focus |
+|---|---|---|---|
+| Jul 2023 - Present | Software Engineer ML | Ampliforce | Multimodal LLM systems for intelligent document processing and automation bots |
+| Nov 2022 - May 2023 | Solution Engineer | Instabase | Financial document extraction acceleration with LayoutLMv3-based pipelines |
+| May 2022 - Jul 2023 | Software Engineer ML | HighIQ.ai | IDP platform development and practical NLP systems |
+| 2021 - 2022 | Early engineering roles | FEBA Technologies, Ysquare, HighIQ.ai | Python product engineering and applied NLP research |
 
 ## Why this repository exists
 
@@ -31,7 +49,7 @@ I'm especially interested in building with open and controllable ecosystems, inc
 | `SimpleFlow` | Multi-tenant orchestration skeleton (Go + Vue) for agent registration, identity sync, API-key secured chat flows, and streaming-ready architecture. | https://github.com/CraftsMan-Labs/SimpleFlow |
 | `SimpleAgentsRLM` | Recursive Language Model implementation showing how to keep context external and reason with executable recursive steps. | https://github.com/CraftsMan-Labs/SimpleAgentsRLM |
 | `LitellmProxy` | Unified LiteLLM proxy layer for multi-provider model access (Azure, Gemini, DeepSeek, Ollama, and more) behind one interface. | https://github.com/CraftsMan-Labs/LitellmProxy |
-| `ImageToAgent` | Vision for converting whiteboard workflow sketches into runnable chat and agent applications. (Active build) | https://github.com/CraftsMan-Labs/ImageToAgent |
+| `ImageToAgent` | Converts whiteboard-style workflow sketches into runnable chat and agent application flows. | https://github.com/CraftsMan-Labs/ImageToAgent |
 
 ## Packages I've developed
 
@@ -49,8 +67,6 @@ These packages are published and available to use today.
 
 ## Documentation and package stats
 
-- Documentation: https://docs.simpleagents.craftsmanlabs.net/
-
 | Package | Version | Downloads |
 |---|---|---|
 | `simple-agents-py` | [![PyPI Version](https://img.shields.io/pypi/v/simple-agents-py?style=flat-square&logo=python)](https://pypi.org/project/simple-agents-py/) | [![PyPI Downloads](https://static.pepy.tech/badge/simple-agents-py/month)](https://pepy.tech/project/simple-agents-py) |
@@ -61,24 +77,41 @@ These packages are published and available to use today.
 | `simple-agents-ffi` | [![crates.io](https://img.shields.io/crates/v/simple-agents-ffi?style=flat-square&logo=rust)](https://crates.io/crates/simple-agents-ffi) | [![crates downloads](https://img.shields.io/crates/d/simple-agents-ffi?style=flat-square)](https://crates.io/crates/simple-agents-ffi) |
 | `simple-agents-healing` | [![crates.io](https://img.shields.io/crates/v/simple-agents-healing?style=flat-square&logo=rust)](https://crates.io/crates/simple-agents-healing) | [![crates downloads](https://img.shields.io/crates/d/simple-agents-healing?style=flat-square)](https://crates.io/crates/simple-agents-healing) |
 
-## What I'm building toward
+## Tech stack
 
-- **Agent systems that are production-ready by design**
-  - not just demos, but deployable workflows with observability, retries, and safety boundaries.
-- **Memory-native AI applications**
-  - structured recall, long-horizon context, and reliable task continuity.
-- **Hybrid model strategy**
-  - right model for the right step: SLMs where they win, frontier models where they matter.
-- **Model sovereignty**
-  - architecture choices that keep teams in control of cost, privacy, and deployment constraints.
+| Category | Technologies |
+|---|---|
+| Core languages | Rust, Python, JavaScript, SQL |
+| LLM and AI frameworks | LiteLLM, DSPy, Pydantic, LangFlow, LionAGI |
+| Model families | GPT, Claude, Mistral, LLaVA, Donut, Qwen, LFM |
+| Computer vision and document AI | OpenCV, LayoutLMv3, Inception-ResNet |
+| Vector and memory systems | Pinecone, Qdrant |
+| Inference and serving | vLLM, MLX, Triton Inference Server |
+| Cloud and infra | GCP, Azure, Docker |
+| UI and product surfaces | Open WebUI, LibreChat, Gradio |
 
-## Current direction
+## Technical writing and research themes
 
-I'm actively designing a stack where:
-1. You sketch an idea (or whiteboard an agent flow),
-2. The system generates a working agent/chat app scaffold,
-3. Workflows connect to memory, tools, and eval loops,
-4. Teams ship quickly with controllable model backends.
+- AI architecture blueprints for enterprise systems and agent platforms
+- RL and reasoning methods for LLM workflows (including GRPO and recursive approaches)
+- Multi-agent collaboration patterns with sparse communication and tool routing
+- RAG preprocessing and context-optimization strategies for better retrieval quality
+- Applied AI pipelines in finance, supply chain, healthcare, and scientific discovery
+
+## Open-source engagement
+
+I actively build, fork, and contribute around the agentic ecosystem, including infrastructure, model serving, MCP-based tooling, and production workflow patterns.
+
+## Online presence
+
+| Platform | Link |
+|---|---|
+| Website | https://www.craftsmanlabs.net/ |
+| GitHub | https://github.com/CraftsMan-Labs |
+| LinkedIn | https://www.linkedin.com/in/rishub-c-r |
+| FOSS United | https://fossunited.org/u/rishub_c_r |
+| ORCID | https://orcid.org/0009-0000-0557-700X |
+| Linktree | https://linktr.ee/CraftsmanLabs |
 
 ## Let's collaborate
 
