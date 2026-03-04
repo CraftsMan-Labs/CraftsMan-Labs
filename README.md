@@ -1,16 +1,57 @@
-## Hi there 👋
+# Hi, I'm @rishub
 
-<!--
-**CraftsMan-Labs/CraftsMan-Labs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build practical AI systems that move from idea to production fast.
 
-Here are some ideas to get you started:
+## Why this repository exists
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+AI is most powerful when we stop treating models as black boxes and start designing systems around them.
+
+I'm exploring the space where:
+- human intent defines direction,
+- agents execute complex workflows,
+- and memory plus orchestration make outputs reliable enough for real-world use.
+
+My focus is simple: **vibe-code agents to production** without giving up control.
+
+That means combining:
+- frontier models for capability,
+- SLMs for cost and performance on domain tasks,
+- and model sovereignty so teams can decide where intelligence runs.
+
+I'm especially interested in building with open and controllable ecosystems, including LFM and Qwen-class models, while keeping interfaces provider-agnostic.
+
+## Flagship projects
+
+| Project | What it does | GitHub |
+|---|---|---|
+| `SimpleAgents` | Rust-first multi-language framework for building agentic apps with routing, workflows, healing/coercion, caching, and bindings across Rust/Python/Node/Go. | https://github.com/CraftsMan-Labs/SimpleAgents |
+| `SimpleMemory` | Rust-first memory service with durable operations, vector search, OpenAPI surfaces, compatibility routes, and MCP tooling for long-context systems. | https://github.com/CraftsMan-Labs/SimpleMemory |
+| `SimpleFlow` | Multi-tenant orchestration skeleton (Go + Vue) for agent registration, identity sync, API-key secured chat flows, and streaming-ready architecture. | https://github.com/CraftsMan-Labs/SimpleFlow |
+| `SimpleAgentsRLM` | Recursive Language Model implementation showing how to keep context external and reason with executable recursive steps. | https://github.com/CraftsMan-Labs/SimpleAgentsRLM |
+| `LitellmProxy` | Unified LiteLLM proxy layer for multi-provider model access (Azure, Gemini, DeepSeek, Ollama, and more) behind one interface. | https://github.com/CraftsMan-Labs/LitellmProxy |
+| `ImageToAgent` | Vision for converting whiteboard workflow sketches into runnable chat and agent applications. (Active build) | https://github.com/CraftsMan-Labs/ImageToAgent |
+
+## What I'm building toward
+
+- **Agent systems that are production-ready by design**
+  - not just demos, but deployable workflows with observability, retries, and safety boundaries.
+- **Memory-native AI applications**
+  - structured recall, long-horizon context, and reliable task continuity.
+- **Hybrid model strategy**
+  - right model for the right step: SLMs where they win, frontier models where they matter.
+- **Model sovereignty**
+  - architecture choices that keep teams in control of cost, privacy, and deployment constraints.
+
+## Current direction
+
+I'm actively designing a stack where:
+1. You sketch an idea (or whiteboard an agent flow),
+2. The system generates a working agent/chat app scaffold,
+3. Workflows connect to memory, tools, and eval loops,
+4. Teams ship quickly with controllable model backends.
+
+## Let's collaborate
+
+If you're building in agent orchestration, memory systems, model routing/proxy layers, or domain-specific AI products, I'd love to collaborate.
+
+Open an issue, start a discussion, or reach out through any repo above.
