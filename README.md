@@ -31,6 +31,20 @@ I'm especially interested in building with open and controllable ecosystems, inc
 | `LitellmProxy` | Unified LiteLLM proxy layer for multi-provider model access (Azure, Gemini, DeepSeek, Ollama, and more) behind one interface. | https://github.com/CraftsMan-Labs/LitellmProxy |
 | `ImageToAgent` | Vision for converting whiteboard workflow sketches into runnable chat and agent applications. (Active build) | https://github.com/CraftsMan-Labs/ImageToAgent |
 
+## Packages I've developed
+
+These packages are published and available to use today.
+
+| Package | Registry | Link |
+|---|---|---|
+| `simple-agents-py` | PyPI | https://pypi.org/project/simple-agents-py/ |
+| `simple-agents-node` | npm | https://www.npmjs.com/package/simple-agents-node |
+| `simple-agent-type` | crates.io | https://crates.io/crates/simple-agent-type |
+| `simple-agents-cache` | crates.io | https://crates.io/crates/simple-agents-cache |
+| `simple-agents-core` | crates.io | https://crates.io/crates/simple-agents-core |
+| `simple-agents-ffi` | crates.io | https://crates.io/crates/simple-agents-ffi |
+| `simple-agents-healing` | crates.io | https://crates.io/crates/simple-agents-healing |
+
 ## What I'm building toward
 
 - **Agent systems that are production-ready by design**
