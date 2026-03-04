@@ -20,9 +20,9 @@ One-line background: I started shipping and leading technical communities early,
 | Sep 2024 - Present | Senior AI Engineer, Agentic Builder | CraftsmanLabs | Building production agentic systems, model orchestration stacks, and AI product workflows |
 | Feb 2025 - Present | Co-Founder, OS Agentic Builder | Agentics Foundation | OSS non-profit work for advancing practical agentic engineering |
 | Jul 2024 - Dec 2025 | SWE ML Engineer | Cato | Built an agentic supply-chain pipeline for inventory/data intake, RFQ entity extraction, supplier routing, invoice draft generation, human-in-the-loop review, and observability traces to improve future accuracy |
-| Jul 2023 - Present | Software Engineer ML | Ampliforce | Multimodal LLM systems for intelligent document processing and automation bots |
-| Nov 2022 - May 2023 | Solution Engineer | Instabase | Financial document extraction acceleration with LayoutLMv3-based pipelines |
-| May 2022 - Jul 2023 | Software Engineer ML | HighIQ.ai | IDP platform development and practical NLP systems |
+| Jul 2023 - Sep 2024 | Software Engineer ML | Ampliforce | Built multimodal IDP systems (Donut, GPT-4V, LLaVA, Mistral), shipped automation bots and tool integrations, and delivered high-impact scraping and extraction pipelines |
+| Nov 2022 - May 2023 | Solution Engineer | Instabase | Accelerated extraction pipelines for complex financial documents using LayoutLMv3-based solutions and bank-system integrations |
+| May 2022 - Jul 2023 | Software Engineer ML | HighIQ.ai | Built pre-LLM IDP components including signature validation, invoice extraction, translation workflows, and MLOps-backed model improvements |
 | 2021 - 2022 | Early engineering roles | FEBA Technologies, Ysquare, HighIQ.ai | Python product engineering and applied NLP research |
 
 - I was a core engineer for this HR-focused project: https://news.microsoft.com/source/asia/features/a-digital-colleague-how-chemist-warehouse-and-insurgence-ai-are-rewriting-the-hr-playbook/
