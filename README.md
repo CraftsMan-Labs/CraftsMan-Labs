@@ -19,7 +19,7 @@ One-line background: I started shipping and leading technical communities early,
 |---|---|---|---|
 | Sep 2024 - Present | Senior AI Engineer, Agentic Builder | CraftsmanLabs | Building production agentic systems, model orchestration stacks, and AI product workflows |
 | Feb 2025 - Present | Co-Founder, OS Agentic Builder | Agentics Foundation | OSS non-profit work for advancing practical agentic engineering |
-| Jul 2024 - Dec 2025 | SWE ML Engineer | Cato (Kato Suppliers) | Built an agentic supply-chain pipeline for inventory/data intake, RFQ entity extraction, supplier routing, invoice draft generation, human-in-the-loop review, and observability traces to improve future accuracy |
+| Jul 2024 - Dec 2025 | SWE ML Engineer | Cato | Built an agentic supply-chain pipeline for inventory/data intake, RFQ entity extraction, supplier routing, invoice draft generation, human-in-the-loop review, and observability traces to improve future accuracy |
 | Jul 2023 - Present | Software Engineer ML | Ampliforce | Multimodal LLM systems for intelligent document processing and automation bots |
 | Nov 2022 - May 2023 | Solution Engineer | Instabase | Financial document extraction acceleration with LayoutLMv3-based pipelines |
 | May 2022 - Jul 2023 | Software Engineer ML | HighIQ.ai | IDP platform development and practical NLP systems |
