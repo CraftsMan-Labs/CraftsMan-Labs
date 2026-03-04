@@ -22,7 +22,7 @@ One-line background: I started shipping and leading technical communities early,
 | May 2022 - Jul 2023 | Software Engineer ML | HighIQ.ai | IDP platform development and practical NLP systems |
 | 2021 - 2022 | Early engineering roles | FEBA Technologies, Ysquare, HighIQ.ai | Python product engineering and applied NLP research |
 
-- At Insurgence AI, I was a core engineer for the first two versions of the digital colleague product featured by Microsoft: https://news.microsoft.com/source/asia/features/a-digital-colleague-how-chemist-warehouse-and-insurgence-ai-are-rewriting-the-hr-playbook/
+- I was a core engineer for this HR-focused project: https://news.microsoft.com/source/asia/features/a-digital-colleague-how-chemist-warehouse-and-insurgence-ai-are-rewriting-the-hr-playbook/
 
 ## Why this repository exists
 
