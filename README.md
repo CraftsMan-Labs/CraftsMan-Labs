@@ -53,6 +53,9 @@ I'm especially interested in building with open and controllable ecosystems, inc
 | `SimpleMemory` | Rust-first memory service with durable operations, vector search, OpenAPI surfaces, compatibility routes, and MCP tooling for long-context systems. | https://github.com/CraftsMan-Labs/SimpleMemory |
 | `SimpleFlow` | Multi-tenant orchestration skeleton (Go + Vue) for agent registration, identity sync, API-key secured chat flows, and streaming-ready architecture. | https://github.com/CraftsMan-Labs/SimpleFlow |
 | `SimpleAgentsRLM` | Recursive Language Model implementation showing how to keep context external and reason with executable recursive steps. | https://github.com/CraftsMan-Labs/SimpleAgentsRLM |
+| `SimpleFlowSDKs` | Official SDK collection for integrating SimpleFlow across supported languages and runtimes. | https://github.com/CraftsMan-Labs/SimpleFlowSDKs |
+| `SimpleFlowTemplates` | Ready-to-use starter templates for building and shipping SimpleFlow-based workflows faster. | https://github.com/CraftsMan-Labs/SimpleFlowTemplates |
+| `SimpleAgentChatTemplate` | Chat-focused template repository for quickly launching agent-powered conversational applications. | https://github.com/CraftsMan-Labs/SimpleAgentChatTemplate |
 | `LitellmProxy` | Unified LiteLLM proxy layer for multi-provider model access (Azure, Gemini, DeepSeek, Ollama, and more) behind one interface. | https://github.com/CraftsMan-Labs/LitellmProxy |
 | `ImageToAgent` | Converts whiteboard-style workflow sketches into runnable chat and agent application flows. | https://github.com/CraftsMan-Labs/ImageToAgent |
 
@@ -64,6 +67,8 @@ These packages are published and available to use today.
 |---|---|---|
 | `simple-agents-py` | PyPI | https://pypi.org/project/simple-agents-py/ |
 | `simple-agents-node` | npm | https://www.npmjs.com/package/simple-agents-node |
+| `simpleflow-sdk` | PyPI | https://pypi.org/project/simpleflow-sdk/ |
+| `simpleflow-sdk` | npm | https://www.npmjs.com/package/simpleflow-sdk |
 | `simple-agent-type` | crates.io | https://crates.io/crates/simple-agent-type |
 | `simple-agents-cache` | crates.io | https://crates.io/crates/simple-agents-cache |
 | `simple-agents-core` | crates.io | https://crates.io/crates/simple-agents-core |
@@ -76,6 +81,8 @@ These packages are published and available to use today.
 |---|---|---|
 | `simple-agents-py` | [![PyPI Version](https://img.shields.io/pypi/v/simple-agents-py?style=flat-square&logo=python)](https://pypi.org/project/simple-agents-py/) | [![PyPI Downloads](https://static.pepy.tech/badge/simple-agents-py/month)](https://pepy.tech/project/simple-agents-py) |
 | `simple-agents-node` | [![npm Version](https://img.shields.io/npm/v/simple-agents-node?style=flat-square&logo=npm)](https://www.npmjs.com/package/simple-agents-node) | [![npm Downloads](https://img.shields.io/npm/dm/simple-agents-node?style=flat-square)](https://www.npmjs.com/package/simple-agents-node) |
+| `simpleflow-sdk` (PyPI) | [![PyPI Version](https://img.shields.io/pypi/v/simpleflow-sdk?style=flat-square&logo=python)](https://pypi.org/project/simpleflow-sdk/) | [![PyPI Downloads](https://static.pepy.tech/badge/simpleflow-sdk/month)](https://pepy.tech/project/simpleflow-sdk) |
+| `simpleflow-sdk` (npm) | [![npm Version](https://img.shields.io/npm/v/simpleflow-sdk?style=flat-square&logo=npm)](https://www.npmjs.com/package/simpleflow-sdk) | [![npm Downloads](https://img.shields.io/npm/dm/simpleflow-sdk?style=flat-square)](https://www.npmjs.com/package/simpleflow-sdk) |
 | `simple-agent-type` | [![crates.io](https://img.shields.io/crates/v/simple-agent-type?style=flat-square&logo=rust)](https://crates.io/crates/simple-agent-type) | [![crates downloads](https://img.shields.io/crates/d/simple-agent-type?style=flat-square)](https://crates.io/crates/simple-agent-type) |
 | `simple-agents-cache` | [![crates.io](https://img.shields.io/crates/v/simple-agents-cache?style=flat-square&logo=rust)](https://crates.io/crates/simple-agents-cache) | [![crates downloads](https://img.shields.io/crates/d/simple-agents-cache?style=flat-square)](https://crates.io/crates/simple-agents-cache) |
 | `simple-agents-core` | [![crates.io](https://img.shields.io/crates/v/simple-agents-core?style=flat-square&logo=rust)](https://crates.io/crates/simple-agents-core) | [![crates downloads](https://img.shields.io/crates/d/simple-agents-core?style=flat-square)](https://crates.io/crates/simple-agents-core) |
