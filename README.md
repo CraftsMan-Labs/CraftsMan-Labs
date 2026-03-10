@@ -4,6 +4,7 @@ I build practical AI systems that move from idea to production fast.
 
 - Website: https://www.craftsmanlabs.net/
 - Documentation: https://docs.simpleagents.craftsmanlabs.net/
+- SimpleFlow SDK Docs: http://docs.simpleflow-sdk.craftsmanlabs.net/
 
 ![SimpleFlow hero](./SimpleFlow.png)
 
